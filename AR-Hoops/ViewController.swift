@@ -13,7 +13,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
 
     @IBOutlet weak var planeDetected: UILabel!
     @IBOutlet weak var sceneView: ARSCNView!
-    let configuration = ARWorldTrackingSessionConfiguration()
+    let configuration = ARWorldTrackingConfiguration()
     var power: Float = 1
     let timer = Each(0.05).seconds
     var basketAdded: Bool = false

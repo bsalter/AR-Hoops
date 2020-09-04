@@ -353,7 +353,7 @@
 			baseConfigurationReference = 45145E159BAE209F196C42D7 /* Pods-AR-Hoops.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = VSKQF4Y8J8;
+				DEVELOPMENT_TEAM = 6CP93ZVP7H;
 				INFOPLIST_FILE = "AR-Hoops/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Reveal-Inc.AR-Portal";
@@ -368,7 +368,7 @@
 			baseConfigurationReference = D16207B76895352C2591F9E4 /* Pods-AR-Hoops.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = VSKQF4Y8J8;
+				DEVELOPMENT_TEAM = 6CP93ZVP7H;
 				INFOPLIST_FILE = "AR-Hoops/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Reveal-Inc.AR-Portal";
